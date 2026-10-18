@@ -16,6 +16,8 @@ const lastName = "Stevenson";
 const birthYear = 1947;
 const thisYear = 1965;
 
+const fullName = firstName + " " + lastName;
+const age = thisYear - birthYear;
 
 
 // Do not change this
