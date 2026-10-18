@@ -9,6 +9,11 @@
 
 // Add your code right below, good luck!
 
+const firstName = "Witz"
+const lastName = "Dome"
+const birthYear = 1836
+const thisYear = 2026
+
 
 
 
